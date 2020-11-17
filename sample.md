@@ -17,9 +17,6 @@ public static void class main(String[] args){
 
 ```
 
->これは引用です
->
->>引用
 
 ---
 
@@ -40,3 +37,12 @@ public static void class main(String[] args){
 これは***それ***です
 
 ![画像](https://joytas.net/php/man.jpg)  
+
+![5人組](https://user-images.githubusercontent.com/73979965/99324965-9ee78a80-28b8-11eb-9a34-7e2af6aa8eca.png)
+
+<img src="https://joytas.net/php/man.jpg" alt="attach:cat" title="attach:cat" width="200" height="200">
+
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
